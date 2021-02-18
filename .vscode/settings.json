@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "remote",
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/30fb7505-9731-4f44-bc63-4d5cd1278bf0/resourceGroups/mlcourserg/providers/Microsoft.MachineLearningServices/workspaces/mlcourse"
+}
